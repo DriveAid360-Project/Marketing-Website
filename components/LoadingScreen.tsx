@@ -106,7 +106,7 @@ export function LoadingScreen({ onLoadingComplete }: LoadingScreenProps) {
             }}
           />
           <img
-            src="/logo.png"
+            src="/logo2.png"
             alt="DriveAid360"
             className="relative w-56 h-56 object-contain mx-auto"
             style={{
