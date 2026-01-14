@@ -43,7 +43,7 @@ export function TestimonialsNew() {
         <div className="text-center mb-16">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-[#22C55E]/10 border border-[#22C55E]/30 rounded-full mb-6">
             <Star size={16} className="text-[#22C55E] fill-[#22C55E]" />
-            <span className="text-sm text-[#94A3B8]">4.9/5 from 48,000+ drivers</span>
+            <span className="text-sm text-[#94A3B8]">4.9/5 from 500+ drivers</span>
           </div>
           <h2 className="font-['Space_Grotesk'] text-[36px] md:text-[48px] leading-tight text-[#E5E7EB] mb-4">
             Real stories from real drivers
@@ -117,7 +117,7 @@ export function TestimonialsNew() {
         {/* Trust stats row */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6 p-8 bg-gradient-to-br from-[#111B2E]/50 to-[#0B1220]/50 rounded-2xl border border-[#1F2A44] backdrop-blur-sm">
           <div className="text-center">
-            <p className="font-['Space_Grotesk'] text-3xl text-[#E5E7EB] mb-1">48,000+</p>
+            <p className="font-['Space_Grotesk'] text-3xl text-[#E5E7EB] mb-1">500+</p>
             <p className="text-sm text-[#94A3B8]">Successful assists</p>
           </div>
           <div className="text-center">
