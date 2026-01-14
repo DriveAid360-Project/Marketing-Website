@@ -16,7 +16,7 @@ export function Footer() {
             <div className="space-y-3 text-sm text-[#94A3B8]">
               <div className="flex items-center gap-2">
                 <Phone size={16} className="text-[#2563EB]" />
-                <span>1-800-DRIVE-360</span>
+                <span>+94 81 154 4257</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail size={16} className="text-[#2563EB]" />
@@ -24,7 +24,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <MapPin size={16} className="text-[#2563EB]" />
-                <span>San Francisco, CA</span>
+                <span>Colombo, Sri Lanka</span>
               </div>
             </div>
           </div>
