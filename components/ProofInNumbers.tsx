@@ -26,7 +26,7 @@ export function ProofInNumbers() {
     },
     {
       icon: CheckCircle,
-      value: 48000,
+      value: 500,
       prefix: '',
       suffix: '+',
       label: 'Successful Assists',
