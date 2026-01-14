@@ -3,27 +3,27 @@ import { Star, Quote } from 'lucide-react';
 export function TestimonialsNew() {
   const testimonials = [
     {
-      name: 'Sarah Martinez',
-      role: 'College Student',
-      location: 'Austin, TX',
+      name: 'Shenali Wickramasinghe',
+      role: 'University Student',
+      location: 'Kotte, Sri Lanka',
       image: '👩‍🎓',
       rating: 5,
       content: "I broke down at midnight on a lonely highway. The SOS feature alerted my parents instantly, and help arrived in 8 minutes. Felt safe the whole time.",
       highlight: '8 minutes'
     },
     {
-      name: 'David Chen',
-      role: 'Sales Manager',
-      location: 'Seattle, WA',
+      name: 'Kasun Jayasinghe',
+      role: 'Operations Executive',
+      location: 'Colombo, Sri Lanka',
       image: '👨‍💼',
       rating: 5,
       content: "The AI diagnosed my alternator issue immediately and gave me a fair price quote. No more getting ripped off by shady mechanics. This app is essential.",
       highlight: 'Fair pricing'
     },
     {
-      name: 'Maria Johnson',
+      name: 'Priyanka Fernando',
       role: 'Mom of Three',
-      location: 'Denver, CO',
+      location: 'Galle, Sri Lanka',
       image: '👩‍👧‍👦',
       rating: 5,
       content: "As a mom, knowing I can track the mechanic in real-time while my kids are in the car gives me incredible peace of mind. Worth every penny.",
